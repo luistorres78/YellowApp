@@ -1,0 +1,6 @@
+{
+	"SourceDir": "/Users/luistorres/Documents/AppDevelopmentRoot/AppDevPractice",
+	"DistributionDir": "/",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start"
+}
